@@ -1,5 +1,5 @@
 # PORTFOLIO
-## About Me
+## 😊 About Me
 안녕하세요, 풀스택 개발자 박해림입니다. <br>
 저는 웹 개발과 디자인에 깊은 관심을 가지고 있으며, <br>
 앞으로도 끊임없이 학습하고 경험을 쌓아 사용자 중심의 서비스를 개발하는 <br>
@@ -8,7 +8,7 @@
 |---|---|
 |[링크](https://positive-shadow-92a.notion.site/Programmers-Study-1b8bb37debdf8052b3ece6d35926c085?pvs=4)|[링크](https://positive-shadow-92a.notion.site/Trip-Together-17dbb37debdf803aaa42e37ac0926286?pvs=4)|
 
-## Education
+## 🏫 Education
 ### 명지 전문 대학교 (2019-2023)
 컴퓨터공학과 전문학사 취득 
 ### 명지 전문 대학교 (2023-2024)
@@ -16,8 +16,8 @@
 ### Programmers (2024-2025)
 웹 개발 및 React, Node.js 풀스택 과정 수료
 
-## Projects
-### 1. The Rabbit's Journey (개인 프로젝트)
+## 🖥️ Projects
+### 🐰 1. The Rabbit's Journey (개인 프로젝트)
 **개발 기간** 
 - 2022.07.11 - 2022.07.31 <br>
 
@@ -31,7 +31,7 @@
 |-----|---|---|
 |[링크](https://github.com/haerimi/The-Rabbit-s.git)|[링크](https://youtu.be/pSKh4qiiEGE)|[자료](https://github.com/user-attachments/files/19272568/3._2019081025_._The.Rabbit.s.Journey_.pptx)|
 
-### 2. 실로 풍경 (개인 프로젝트)
+### 🧵 2. 실로 풍경 (개인 프로젝트)
 **개발 기간**
 - 2024.07.24 - 2024.08.26 <br>
 
@@ -45,7 +45,7 @@
 |---|---|---|
 |[링크](https://github.com/haerimi/WebMarket.git)|[링크](https://youtu.be/fhaage5Lp0c)|[자료](https://github.com/user-attachments/files/19272543/2023531009_._.pdf)|
 
-### 3. Trip Together (팀 프로젝트)
+### ✈️ 3. Trip Together (팀 프로젝트)
 **개발 기간**
 - 2025.01.13 - 2025.02.06 <br>
 
