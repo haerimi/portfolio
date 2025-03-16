@@ -60,7 +60,7 @@
 |------|---|---|---|
 |[링크](https://github.com/Trip-Togethers)|[링크](https://positive-shadow-92a.notion.site/Trip-Together-17dbb37debdf803aaa42e37ac0926286?pvs=4)|[링크](https://www.notion.so/15e55f0f90d74155b86b62a280bf7c88?pvs=4)|[링크](https://youtu.be/qPP9TX6dpKo)|
 
-### 📖 4. Book Shop
+### 📖 4. Book Shop (프로그래머스 과정)
 **개발 기간**
 - 2024.08.26-2024.11.22
 
