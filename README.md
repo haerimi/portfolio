@@ -60,4 +60,30 @@
 |------|---|---|---|
 |[링크](https://github.com/Trip-Togethers)|[링크](https://positive-shadow-92a.notion.site/Trip-Together-17dbb37debdf803aaa42e37ac0926286?pvs=4)|[링크](https://www.notion.so/15e55f0f90d74155b86b62a280bf7c88?pvs=4)|[링크](https://youtu.be/qPP9TX6dpKo)|
 
+### 4. Book Shop
+**개발 기간**
+- 2024.08.26-2024.11.22
+
+**기능 요약**
+- 도서 목록 및 상세 정보 확인 기능 구현
+- 도서 검색 기능 구현
+- 좋아요 기능 구현
+- 장바구니 기능 및 주문 기능 구현
+
+|백엔드|프론트엔드|
+|---|---|
+|[백엔드](https://github.com/haerimi/Book-Shop.git)|[프론트엔드](https://github.com/haerimi/Book-store.git)|
+
+### 5. To-Do List
+**개발 기간**
+- 2024.11.04-2024.11.28
+
+**기능 요약**
+- 일정 추가, 삭제, 수정 기능 구현
+- 게시글 추가, 삭제 기능 구현
+- 게시글 위치 이동 가능하도록 구현
+
+|저장소|
+|---|
+|[링크](https://github.com/haerimi/React-Task-App.git)
 
