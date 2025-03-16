@@ -70,9 +70,9 @@
 - 좋아요 기능 구현
 - 장바구니 기능 및 주문 기능 구현
 
-|백엔드|프론트엔드|
-|---|---|
-|[백엔드](https://github.com/haerimi/Book-Shop.git)|[프론트엔드](https://github.com/haerimi/Book-store.git)|
+|저장소|
+|---|
+|[링크](https://github.com/haerimi/Book-store.git)|
 
 ### 📝 5. To-Do List
 **개발 기간**
