@@ -31,6 +31,8 @@
 |-----|---|---|
 |[링크](https://github.com/haerimi/The-Rabbit-s.git)|[링크](https://youtu.be/pSKh4qiiEGE)|[자료](https://github.com/user-attachments/files/19272568/3._2019081025_._The.Rabbit.s.Journey_.pptx)|
 
+<hr>
+
 ### 🧵 2. 실로 풍경 (개인 프로젝트)
 **개발 기간**
 - 2024.07.24 - 2024.08.26 <br>
@@ -44,6 +46,8 @@
 |저장소|데모영상|발표자료|
 |---|---|---|
 |[링크](https://github.com/haerimi/WebMarket.git)|[링크](https://youtu.be/fhaage5Lp0c)|[자료](https://github.com/user-attachments/files/19272543/2023531009_._.pdf)|
+
+<hr>
 
 ### ✈️ 3. Trip Together (팀 프로젝트)
 **개발 기간**
@@ -60,6 +64,8 @@
 |------|---|---|---|
 |[링크](https://github.com/Trip-Togethers)|[링크](https://positive-shadow-92a.notion.site/Trip-Together-17dbb37debdf803aaa42e37ac0926286?pvs=4)|[링크](https://www.notion.so/15e55f0f90d74155b86b62a280bf7c88?pvs=4)|[링크](https://youtu.be/qPP9TX6dpKo)|
 
+<hr>
+
 ### 📖 4. Book Store (프로그래머스 과정)
 **개발 기간**
 - 2024.08.26-2024.11.22
@@ -73,6 +79,8 @@
 |저장소|
 |---|
 |[링크](https://github.com/haerimi/Book-store.git)|
+
+<hr>
 
 ### 📝 5. To-Do List
 **개발 기간**
