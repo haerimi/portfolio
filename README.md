@@ -1,4 +1,4 @@
-[박해림_포트폴리오.pdf](https://github.com/user-attachments/files/21698243/_.pdf)# PORTFOLIO
+# PORTFOLIO
 ## 😊 About Me
 안녕하세요, 풀스택 개발자 박해림입니다. <br>
 저는 웹 개발과 디자인에 깊은 관심을 가지고 있으며, <br>
