@@ -6,7 +6,8 @@
 전문적인 웹 개발자로 성장하는 것이 저의 목표입니다. <br>
 |프로그래머스 과정 정리|팀 프로젝트 정리|포트폴리오|
 |---|---|---|
-|[링크](https://positive-shadow-92a.notion.site/Programmers-Study-1b8bb37debdf8052b3ece6d35926c085?pvs=4)|[링크](https://positive-shadow-92a.notion.site/Trip-Together-17dbb37debdf803aaa42e37ac0926286?pvs=4)|[포트폴리오_.pdf](https://github.com/user-attachments/files/20587255/_._.pdf)|
+|[링크](https://positive-shadow-92a.notion.site/Programmers-Study-1b8bb37debdf8052b3ece6d35926c085?pvs=4)|[링크](https://positive-shadow-92a.notion.site/Trip-Together-17dbb37debdf803aaa42e37ac0926286?pvs=4)|[포트폴리오_.pdf]()|(https://github.com/user-attachments/files/21698239/_.pdf)
+
 
 ## 🏫 Education
 ### 명지 전문 대학교 (2019-2023)
