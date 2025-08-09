@@ -1,4 +1,4 @@
-# PORTFOLIO
+[박해림_포트폴리오.pdf](https://github.com/user-attachments/files/21698243/_.pdf)# PORTFOLIO
 ## 😊 About Me
 안녕하세요, 풀스택 개발자 박해림입니다. <br>
 저는 웹 개발과 디자인에 깊은 관심을 가지고 있으며, <br>
@@ -6,8 +6,7 @@
 전문적인 웹 개발자로 성장하는 것이 저의 목표입니다. <br>
 |프로그래머스 과정 정리|팀 프로젝트 정리|포트폴리오|
 |---|---|---|
-|[링크](https://positive-shadow-92a.notion.site/Programmers-Study-1b8bb37debdf8052b3ece6d35926c085?pvs=4)|[링크](https://positive-shadow-92a.notion.site/Trip-Together-17dbb37debdf803aaa42e37ac0926286?pvs=4)|[박해림_포트폴리오.pdf](https://github.com/user-attachments/files/21698241/_.pdf)
-
+|[링크](https://positive-shadow-92a.notion.site/Programmers-Study-1b8bb37debdf8052b3ece6d35926c085?pvs=4)|[링크](https://positive-shadow-92a.notion.site/Trip-Together-17dbb37debdf803aaa42e37ac0926286?pvs=4)|[박해림_포트폴리오.pdf](https://github.com/user-attachments/files/21698245/_.pdf)
 
 
 ## 🏫 Education
